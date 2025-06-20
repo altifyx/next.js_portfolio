@@ -31,7 +31,7 @@ export default function AboutPage() {
               <div className="space-y-4 text-muted-foreground">
                 <p>
                   Hello! I'm Tony, also known as{' '}
-                  <span className="font-medium text-primary">cptcr</span> online. I'm a 17-year-old
+                  <span className="font-medium text-primary">cptcr</span> online. I'm a 18-year-old
                   backend developer living near Stuttgart, Germany.
                 </p>
                 <p>
